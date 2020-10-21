@@ -22,10 +22,10 @@ This repository demonstrates sample issues in Python code raised by DeepSource.
 
 [![DeepSource](https://deepsource.io/gh/deepsourcelabs/demo-python.svg/?label=active+issues&show_trend=true)](https://deepsource.io/gh/deepsourcelabs/demo-python/?ref=repository-badge)
 
-### Report
+### Report:
 
 [https://deepsource.io/gh/deepsourcelabs/demo-python/issues/](https://deepsource.io/gh/deepsourcelabs/demo-python/issues/)
 
-### Documentation
+### Documentation:
 
 [https://deepsource.io/docs/analyzer/python.html](https://deepsource.io/docs/analyzer/python.html)
